@@ -36,7 +36,7 @@ const ThirdSec = () => {
                     <img
             src="6.jpeg"
             alt="Fast Food"
-            className="rounded-lg object-cover -mt-[410px] ml-[357px] w-20 h-20"
+            className="rounded-lg object-cover -mt-[415px] ml-[388px] w-20 h-20"
           />
         </div>
 

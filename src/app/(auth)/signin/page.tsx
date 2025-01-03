@@ -60,7 +60,7 @@ export default function SigninPage() {
               Sign In
             </button>
             <p className="text-center mt-4">
-              <Link href="/forgot-password" className="text-yellow-500">Forgot password?</Link>
+              <Link href ="/password" className="text-yellow-500">Forgot password?</Link>
               <p className="">
               <Link href="/signin" className="text-yellow-500">SignIn</Link>
               </p>

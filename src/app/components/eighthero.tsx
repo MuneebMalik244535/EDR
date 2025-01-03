@@ -1,4 +1,5 @@
 import Image from 'next/image'
+import Link from 'next/link'
 
 export default function EightHero() {
   return (
@@ -23,9 +24,11 @@ export default function EightHero() {
             bibendum non dui volutpat fringilla bibendum. Urna, elit augue urna,
           </p>
           <div className="flex space-x-4">
+            <Link href="/details" className=''>
             <button className="px-6 py-2 border border-amber-500 text-amber-500 rounded-full hover:bg-amber-500 hover:text-white transition duration-300">
               Read More
             </button>
+            </Link>
             <button className="px-6 py-2 bg-amber-500 text-white rounded-full flex items-center hover:bg-amber-600 transition duration-300">
               <span className="mr-2">Play Video</span>
               <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
