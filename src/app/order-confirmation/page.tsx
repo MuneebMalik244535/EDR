@@ -30,7 +30,7 @@ export default function OrderConfirmationPage() {
   }, [])
 
   return (
-    <div className="container mx-auto p-4">
+    <div className="container mx-auto p-4 text-center items-center">
       <h1 className="text-2xl font-bold mb-4">Order Confirmation</h1>
       <p className="mb-4">Thank you for your order!</p>
       {shipmentData ? (

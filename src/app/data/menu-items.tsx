@@ -9,7 +9,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Fresh squid', 'Seasoned flour', 'Marinara sauce', 'Lemon', 'Parsley', 'Garlic aioli'],
     calories: 420,
     priceRange: { min: 12, max: 18 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/calamary.jpeg',
     category: 'starter'
   },
   {
@@ -19,7 +19,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Artisan bread', 'Roma tomatoes', 'Fresh basil', 'Garlic', 'Olive oil', 'Balsamic glaze'],
     calories: 280,
     priceRange: { min: 8, max: 14 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/download.jpeg',
     category: 'starter'
   },
   {
@@ -29,7 +29,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Spinach', 'Artichoke hearts', 'Cream cheese', 'Mozzarella', 'Parmesan', 'Garlic', 'Tortilla chips'],
     calories: 520,
     priceRange: { min: 10, max: 16 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/spinach.jpeg',
     category: 'starter'
   },
   {
@@ -39,7 +39,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Jumbo shrimp', 'Cocktail sauce', 'Lemon', 'Fresh herbs', 'Black pepper'],
     calories: 180,
     priceRange: { min: 15, max: 22 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/shrimpcock.jpeg',
     category: 'starter'
   },
   {
@@ -49,7 +49,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Chicken wings', 'Buffalo sauce', 'Blue cheese', 'Celery', 'Butter', 'Garlic'],
     calories: 650,
     priceRange: { min: 12, max: 18 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/buffwing.jpeg',
     category: 'starter'
   },
   {
@@ -59,7 +59,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Mozzarella cheese', 'Breadcrumbs', 'Marinara sauce', 'Italian herbs', 'Garlic powder'],
     calories: 460,
     priceRange: { min: 9, max: 15 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/mozstick.jpeg',
     category: 'starter'
   },
   {
@@ -69,7 +69,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Chickpeas', 'Tahini', 'Olive oil', 'Pita bread', 'Mixed vegetables', 'Olives'],
     calories: 420,
     priceRange: { min: 11, max: 17 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/platter.jpeg',
     category: 'starter'
   },
   {
@@ -79,7 +79,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Shrimp', 'Coconut', 'Panko breadcrumbs', 'Sweet chili sauce', 'Lime'],
     calories: 380,
     priceRange: { min: 13, max: 19 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/cocoshripms.jpeg',
     category: 'starter'
   },
   {
@@ -89,7 +89,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Mushrooms', 'Italian sausage', 'Breadcrumbs', 'Parmesan', 'Herbs', 'Garlic'],
     calories: 340,
     priceRange: { min: 10, max: 16 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/stuffmush.jpeg',
     category: 'starter'
   },
   {
@@ -99,7 +99,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Tortilla chips', 'Cheese', 'Beans', 'Jalapeños', 'Sour cream', 'Guacamole', 'Salsa'],
     calories: 820,
     priceRange: { min: 12, max: 18 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/nachos.jpeg',
     category: 'starter'
   },
   {
@@ -109,7 +109,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Mixed vegetables', 'Spring roll wrappers', 'Sweet chili sauce', 'Carrots', 'Cabbage'],
     calories: 280,
     priceRange: { min: 8, max: 14 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/springroll.jpeg',
     category: 'starter'
   },
   {
@@ -119,7 +119,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Lump crab meat', 'Breadcrumbs', 'Mayo', 'Dijon mustard', 'Old Bay seasoning'],
     calories: 380,
     priceRange: { min: 15, max: 22 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/crabcack.jpeg',
     category: 'starter'
   },
   {
@@ -129,7 +129,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Sweet onions', 'Beer batter', 'Seasoning', 'Ranch dressing'],
     calories: 440,
     priceRange: { min: 8, max: 14 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/battonion.jpeg',
     category: 'starter'
   },
   {
@@ -139,7 +139,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['French bread', 'Garlic butter', 'Mozzarella', 'Parsley', 'Italian seasoning'],
     calories: 380,
     priceRange: { min: 7, max: 13 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/cheesebread.jpeg',
     category: 'starter'
   },
   {
@@ -149,7 +149,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Potatoes', 'Cheddar cheese', 'Bacon', 'Green onions', 'Sour cream'],
     calories: 520,
     priceRange: { min: 9, max: 15 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/load.jpeg',
     category: 'starter'
   },
   {
@@ -159,7 +159,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Chicken breast', 'Thai spices', 'Peanut sauce', 'Cucumber relish'],
     calories: 310,
     priceRange: { min: 11, max: 17 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/salmon.jpeg',
     category: 'starter'
   },
   {
@@ -169,7 +169,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Flour tortilla', 'Mixed cheese', 'Salsa', 'Sour cream', 'Guacamole'],
     calories: 460,
     priceRange: { min: 9, max: 15 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/cheeseques.jpeg',
     category: 'starter'
   },
   {
@@ -179,7 +179,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Daily fresh ingredients', 'House-made stock', 'Herbs', 'Crackers'],
     calories: 280,
     priceRange: { min: 6, max: 12 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/day.jpeg',
     category: 'starter'
   },
   {
@@ -189,7 +189,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Brussels sprouts', 'Balsamic glaze', 'Parmesan', 'Pine nuts'],
     calories: 260,
     priceRange: { min: 9, max: 15 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/roasted.jpeg',
     category: 'starter'
   },
   {
@@ -199,7 +199,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Cured meats', 'Italian cheeses', 'Olives', 'Marinated vegetables', 'Crackers'],
     calories: 580,
     priceRange: { min: 16, max: 24 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/anti.jpeg',
     category: 'starter'
   },
 
@@ -211,7 +211,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Ribeye steak', 'Herb butter', 'Roasted vegetables', 'Garlic mashed potatoes'],
     calories: 850,
     priceRange: { min: 32, max: 45 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/steak.jpeg',
     category: 'main'
   },
   {
@@ -221,7 +221,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Atlantic salmon', 'Lemon butter', 'Asparagus', 'Rice pilaf', 'Fresh herbs'],
     calories: 620,
     priceRange: { min: 24, max: 35 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/salmon.jpeg',
     category: 'main'
   },
   {
@@ -231,7 +231,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Chicken breast', 'Marsala wine', 'Mushrooms', 'Garlic', 'Fresh herbs'],
     calories: 580,
     priceRange: { min: 20, max: 28 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/images/chicksatay.jpeg',
     category: 'main'
   },
   {
@@ -241,7 +241,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Fettuccine', 'Heavy cream', 'Parmesan', 'Grilled chicken', 'Garlic'],
     calories: 920,
     priceRange: { min: 18, max: 26 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/beef.jpeg',
     category: 'main'
   },
   {
@@ -251,7 +251,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Angus beef', 'Brioche bun', 'Lettuce', 'Tomato', 'Onion', 'Cheese'],
     calories: 780,
     priceRange: { min: 15, max: 22 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/pasta.jpeg',
     category: 'main'
   },
   // ... Continue with 15 more main course items
@@ -264,7 +264,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Dark chocolate', 'Cocoa powder', 'Heavy cream', 'Butter', 'Vanilla'],
     calories: 580,
     priceRange: { min: 8, max: 14 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/choco.jpeg',
     category: 'desert'
   },
   // ... Continue with 19 more dessert items
@@ -277,7 +277,7 @@ export const menuItems: MenuItem[] = [
     ingredients: ['Tequila', 'Triple sec', 'Lime juice', 'Salt rim'],
     calories: 220,
     priceRange: { min: 9, max: 15 },
-    image: '/placeholder.svg?height=200&width=300',
+    image: '/mar.jpeg',
     category: 'drink'
   },
   // ... Continue with 19 more drink items
