@@ -5,7 +5,7 @@ const Footer = () => {
     <div>
         {/* <!-- Responsive Footer --> */}
 
-<footer className="bg-black text-gray-300 py-10">
+<footer className="bg-black text-gray-300 sm:text-center sm:items-center sm:flex py-10">
   <div className="container mx-auto px-4">
     <div className="flex flex-wrap justify-between">
       {/* <!-- About Section --> */}

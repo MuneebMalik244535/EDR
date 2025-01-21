@@ -50,7 +50,7 @@ const FirstHero = () => {
               className="rounded-lg shadow-lg object-cover"
             />
             <img
-              src="about2.jpeg"
+              src="/about2.jpeg"
               alt="Food Item 3"
               className="rounded-lg h-40 w-64 shadow-lg object-cover"
             />

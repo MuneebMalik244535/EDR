@@ -5,6 +5,7 @@ import Link from 'next/link'
 import { Menu, X, ShoppingCart, Search } from 'lucide-react'
 import { BiUser } from 'react-icons/bi'
 
+
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false)
 
@@ -36,7 +37,7 @@ const Navbar = () => {
               placeholder="Search..."
               className="bg-gray-800 text-white rounded-full py-1 px-4 pr-8 focus:outline-none"
             />
-            <Search className="w-4 h-4 text-gray-400 absolute right-3 top-1/2 transform -translate-y-1/2" />
+            
           </div>
           <Link href="/cart" className="text-white hover:text-yellow-300 ml-2">
             <ShoppingCart className="w-6 h-6 cursor-pointer" />
